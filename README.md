@@ -52,6 +52,13 @@ Este aplicativo é uma interface gráfica desenvolvida em Python utilizando a bi
    - Clique em um item da lista para abrir o diálogo de edição.
    - No diálogo, clique no botão "APAGAR" para deletar o cliente.
 
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE FLET](https://github.com/VILHALVA/CURSO-DE-FLET)
+* [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 
