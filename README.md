@@ -25,12 +25,12 @@ Este aplicativo é uma interface gráfica desenvolvida em Python utilizando a bi
    - Permite deletar um cliente existente. O usuário pode clicar em um item da lista para abrir um diálogo onde a opção de deletar está disponível.
 
 ## COMO USAR?
-1. **Instalação da Biblioteca Flet:**
-   - Certifique-se de ter o Python instalado em seu sistema.
-   - Instale a biblioteca Flet utilizando o seguinte comando no terminal:
-     ```sh
-     pip install flet
-     ```
+1. **Instalando as dependências:**
+   - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` no diretório: `CODIGO`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   - Isso instruirá o pip a ler o arquivo requirements.txt e instalar todas as dependências listadas.
 
 2. **Execução do Código:**
    - Execute o arquivo, no diretório `CODIGO`, usando o comando:
